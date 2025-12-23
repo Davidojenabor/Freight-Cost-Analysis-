@@ -1,68 +1,66 @@
-# Freight-Cost-Analysis-
+# Freight Cost Analysis Dashboard
 
-Overview
+## Project Summary
+This project analyzes freight and logistics cost performance using Excel. The dashboard identifies cost overruns, delivery delays, and SLA compliance issues to support operational and cost-optimization decisions.
 
-This dashboard analyzes freight and logistics cost performance across multiple carriers, routes, transport modes, and delivery outcomes. It is designed for cost monitoring, variance tracking, and operational decision-making, with a print-ready one-page layout.
+## Business Problem
+Freight costs are increasing while delivery performance remains inconsistent. Without clear visibility into cost drivers and delivery outcomes, logistics teams struggle to identify inefficiencies and enforce SLA accountability.
 
-The dashboard prioritizes clarity, compact design, and executive-level insights over unnecessary visuals.
+## Solution
+An interactive Excel dashboard that consolidates freight cost and delivery performance metrics, enabling stakeholders to quickly:
+- Detect cost overruns  
+- Monitor delivery delays  
+- Evaluate carrier SLA compliance  
+- Identify high-risk routes and carriers  
 
+## Key Metrics
+- Total Freight Cost  
+- Average Cost per Shipment  
+- Cost Overrun (%)  
+- On-Time Delivery Rate  
+- Delayed Shipments  
+- SLA Compliance Rate  
 
----
+## Dashboard Features
+- Interactive slicers for Date, Route, Carrier, and Delivery Status  
+- Dynamic KPI cards that update instantly based on filters  
+- Clear visual distinction between cost analysis and delivery performance  
+- Business-focused layout designed for fast insight consumption  
 
-Objectives
+## Tools & Techniques
+- **Microsoft Excel**
+  - Pivot Tables  
+  - Pivot Charts  
+  - Slicers  
+  - Conditional Formatting  
 
-Track total freight cost and cost variance
+All data cleaning and transformation were performed in Excel.
 
-Compare freight spend across carriers and routes
+## Key Insights
+- A small number of routes consistently exceed freight cost targets  
+- Delayed deliveries significantly contribute to cost overruns  
+- Carrier performance varies widely, with repeated SLA breaches from specific providers  
+- Improving delivery timeliness directly reduces overall freight spend  
 
-Analyze cost distribution by transport mode
+## Impact
+This dashboard enables:
+- Better freight cost control  
+- Improved carrier performance monitoring  
+- Increased SLA compliance  
+- Faster, data-driven logistics decisions  
 
-Monitor on-time vs delayed deliveries
+## How to Use
+1. Download and open the Excel file  
+2. Use slicers to filter by route, carrier, date, or delivery status  
+3. Review KPIs and trend charts  
+4. Focus on cost overruns and SLA breaches for action  
 
-Provide a clear summary view suitable for reporting and printing
+## Future Improvements
+- Integration with Power BI for real-time updates  
+- Automated data refresh  
+- Deeper carrier-level cost analysis  
 
-
-
----
-
-Key Metrics (KPIs)
-
-Total Freight Cost – Overall logistics spend
-
-Freight Cost Variance – Difference between planned and actual cost
-
-Average Cost per KM – Cost efficiency metric
-
-On-Time Delivery Rate – Delivery performance indicator
-
-
-
----
-
-Visual Components
-
-Freight Cost by Carrier – Identifies high-cost logistics partners
-
-Freight Cost Variance by Route – Highlights inefficient or risky routes
-
-Freight Cost by Transport Mode – Cost comparison between Road and Air
-
-Delivery Status Distribution – On-time vs delayed shipments
-
-Top Origins by Freight Cost – Major cost-driving locations
-
----
-
-Tools & Skills Used
-
-Microsoft Excel
-
-Pivot Tables & Pivot Charts
-
-Calculated fields and measures
-
-Dashboard layout optimization
-
-Print scaling and page setup best practices
-
----
+## Author
+**David Ojenabor**  
+Business Data Analyst  
+Excel | SQL | Power BI
