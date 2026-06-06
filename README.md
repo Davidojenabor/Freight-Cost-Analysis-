@@ -65,4 +65,4 @@ This dashboard enables:
 Business Data Analyst  
 Excel | SQL | Power BI
 
-![Dashboard review](Screenshot 2025-12-17 225208_094436.png)
+![Dashboard review](Freight-Cost-Dashboard.png)
