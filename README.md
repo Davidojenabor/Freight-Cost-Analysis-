@@ -64,3 +64,5 @@ This dashboard enables:
 **David Ojenabor**  
 Business Data Analyst  
 Excel | SQL | Power BI
+
+![Dashboard review](Screenshot 2025-12-17 225208_094436.png)
